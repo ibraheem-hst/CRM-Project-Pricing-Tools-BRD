@@ -395,18 +395,19 @@ graph TD
 ## 11. Risk Assessment
 
 ### 11.1 Technical Risks
-| Risk | Impact | Probability | Mitigation |
-|------|--------|-------------|------------|
-| Performance issues with large datasets | High | Medium | Implement caching and optimization |
-| Integration conflicts with other modules | Medium | Low | Thorough testing and compatibility checks |
-| Data migration challenges | Medium | Low | Comprehensive backup and rollback procedures |
+| Risk                                 | Impact | Probability | Mitigation                                     |
+|--------------------------------------|--------|-------------|------------------------------------------------|
+| Performance issues with large datasets | High   | Medium      | Implement caching and optimization             |
+| Integration conflicts with other modules | Medium | Low         | Thorough testing and compatibility checks      |
+| Data migration challenges             | Medium | Low         | Comprehensive backup and rollback procedures   |
+
 
 ### 11.2 Business Risks
-| Risk | Impact | Probability | Mitigation |
-|------|--------|-------------|------------|
-| User adoption resistance | High | Medium | Training and change management |
-| Incorrect cost calculations | High | Low | Extensive testing and validation |
-| Security vulnerabilities | High | Low | Security audits and best practices |
+| Risk                        | Impact | Probability | Mitigation                           |
+|-----------------------------|--------|-------------|--------------------------------------|
+| User adoption resistance    | High   | Medium      | Training and change management        |
+| Incorrect cost calculations | High   | Low         | Extensive testing and validation      |
+| Security vulnerabilities    | High   | Low         | Security audits and best practices    |
 
 ---
 
@@ -442,9 +443,9 @@ graph TD
 - HR Module Specifications
 
 ### 13.3 Change Log
-| Version | Date | Changes | Author |
-|---------|------|---------|--------|
-| 1.0 | Dec 2024 | Initial BRD creation |Ibraheem Areeda|
+| Version | Date      | Changes              | Author           |
+|---------|-----------|----------------------|------------------|
+| 1.0     | Dec 2024  | Initial BRD creation | Ibraheem Areeda  |
 
 ---
 
