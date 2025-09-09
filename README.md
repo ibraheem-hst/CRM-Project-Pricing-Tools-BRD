@@ -48,12 +48,14 @@ The CRM Project Pricing Tools module extends Odoo's CRM functionality to provide
 ## 3. Stakeholder Analysis
 
 ### 3.1 Primary Stakeholders
-| Role | Responsibilities | Pain Points |
-|------|------------------|-------------|
-| **Sales Manager** | Lead management, pricing decisions | Manual cost calculations, project setup delays |
-| **Project Manager** | Project execution, resource allocation | Disconnected CRM and project data |
-| **Sales Representative** | Opportunity management, client communication | Lack of pricing tools, manual processes |
-| **Finance Team** | Cost tracking, profit analysis | Inconsistent pricing, manual calculations |
+
+| Role                | Responsibilities                     | Pain Points                                |
+|---------------------|--------------------------------------|--------------------------------------------|
+| **Sales Manager**   | Lead management, pricing decisions   | Manual cost calculations, project setup delays |
+| **Project Manager** | Project execution, resource allocation | Disconnected CRM and project data            |
+| **Sales Rep.**      | Opportunity management, client communication | Lack of pricing tools, manual processes     |
+| **Finance Team**    | Cost tracking, profit analysis       | Inconsistent pricing, manual calculations   |
+
 
 ### 3.2 Secondary Stakeholders
 - **HR Team**: Employee cost data management
