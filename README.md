@@ -2,7 +2,7 @@
 ## CRM Project Pricing Tools Module
 
 **Document Version:** 1.0  
-**Date:** December 2024  
+**Date:** September 2025
 **Author:** Ibraheem Areeda 
 **Target Audience:** Development Interns  
 
